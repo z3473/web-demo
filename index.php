@@ -6,5 +6,6 @@
         echo "Failure...";
 
       mysql_close();
+       123456
     ?>
 
